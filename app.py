@@ -7,7 +7,7 @@ st.title("Dashboard ติดตามงานกลุ่มยุทธศา
 st.write("ข้อมูลสรุปสถานะหนังสือราชการ")
 
 # 2. ใส่ลิงก์ CSV ที่ได้มาจาก Google Sheets ตรงนี้! 👇
-gsheet_url = "https://docs.google.com/spreadsheets/d/1I_dj3omrr6ZZOgAeEckO04z8dcsFbL1E1HF3LLzVfJ4/edit?usp=drivesdk"
+gsheet_url = https://docs.google.com/spreadsheets/d/1I_dj3omrr6ZZOgAeEckO04z8dcsFbL1E1HF3LLzVfJ4/export?format=csv
 
 # 3. ดึงข้อมูลและสร้างกราฟ
 try:
